@@ -1,0 +1,8 @@
+information of roll_no :1
+name:sachin	class:3rd
+marks:hindi:34	marks:engilsh:34	marks:maths34
+
+information of roll_no :45
+name:devesh gawai	class:12 th
+marks:hindi:45	marks:engilsh:67	marks:maths:99
+
